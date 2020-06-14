@@ -8,6 +8,11 @@ For design I wanted something sleek and professional looking that I could design
 
 By the time this was live I had had a lot more experience with javascript and was very interested in the mathematical applications of programming, the projects posted to this site reflect that, the two main things being a graphing calculator and a mandelbrot set generator.
 
+## Notes
+The contact page, the 404 page, and the 500 page seem to be lost forever, they weren’t in with the rest of the source files. 
+
+The “Old Site” navbar tab used to link to the full source of Joswald.com, which has been removed and can instead be seen separately [here](https://github.com/James-Oswald/Jozwald.com)
+
 ## Some pages, screenshots, and history
 
 ### Home
