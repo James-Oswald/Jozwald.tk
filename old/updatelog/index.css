@@ -1,0 +1,35 @@
+h1
+{
+	text-align:center;
+	font-family:logo;
+	font-size:4em;
+	font-weight: normal;
+}
+
+h3
+{
+	font-weight: normal;
+	font-family:logo;
+	font-size:2.5em;
+}
+
+table
+{
+	background-color:rgb(200,200,200);
+	border:2px solid rgb(200,200,200);
+	margin:auto;
+	padding:2px;
+}
+
+th
+{
+	font-family: logo;
+	font-weight: normal;
+	background-color: white;
+}
+
+td
+{
+	background-color: white;
+	padding:2%;
+}

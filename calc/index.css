@@ -1,0 +1,27 @@
+
+.inline-block
+{
+	display:inline-block;
+	margin: 10px 20px;
+}
+
+#dispCont
+{
+   width: 100%;
+   text-align:center;
+}
+
+#disp
+{
+	margin:auto;
+}
+
+.warning
+{
+	width: 75%;
+	margin: 20px auto;
+	padding: 10px 20px;
+	border: 1px solid red;
+	background-color: LightPink; 
+	text-align: center;
+}
